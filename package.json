@@ -1,5 +1,5 @@
 {
-  "name": "email-validator",
+  "name": "email-validation-util",
   "version": "1.0.0",
   "description": "An npm package to validate email address.",
   "main": "index.js",
